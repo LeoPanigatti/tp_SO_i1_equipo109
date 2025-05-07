@@ -2,3 +2,7 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 si, los veo perfecto
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 si, los demás integrantes lo ven
+E-Cual es la mejor forma de comunicarse entre ustedes dentro de github?
+La mejor forma de comunicarnos entre nosotros dentro de github es usando la seccion de Issues para dejar mensajes
+o tareas y las pull requests para revisar los cambios antes de integrar nuevas ramas. tambien es util usar los comentarios
+dentro de los commits si es necesario aclara algo puntual. 
