@@ -1,6 +1,14 @@
 a-¿ALFA ve los datos que cargaron los demás en su repositorio? 
 si, los veo perfecto
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
-si, los demás integrantes lo ven
+si, los demás integrantes lo ven.
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si, mientras se haga el commit y luego el push correctamente, todos los
+integrantes podran ver los cambios en GitHub. Los demas deben hacer pull
+para traer esos cambios a su copia local.
+D-¿De que forma se comunicaron ustedes?
+Nos comunicamos a traves de Discord.
 E-¿Cual es la mejor forma de comunicarse entre ustedes dentro de github?
-La mejor forma de comunicarnos entre nosotros dentro de github es usando la seccion de Issues para dejar mensajes o tareas y las pull requests para revisar los cambios antes de integrar nuevas ramas. tambien es util usar los comentarios dentro de los commits si es necesario aclara algo puntual. 
+La mejor forma de comunicarnos entre nosotros dentro de github es usando la seccion de Issues
+para dejar mensajes o tareas y las pull requests para revisar los cambios antes de integrar nuevas ramas.
+tambien es util usar los comentarios dentro de los commits si es necesario aclara algo puntual. 
